@@ -1,7 +1,3 @@
-Based on the content of your notebook titled **Customer Segmentation**, here's a concise and well-structured README you can use for your GitHub repository:
-
----
-
 # 🧠 Customer Segmentation Using Clustering
 
 This project demonstrates unsupervised machine learning techniques to segment customers based on their behavior and demographic data. The goal is to help businesses personalize their marketing strategies and product offerings based on meaningful customer clusters.
@@ -60,6 +56,3 @@ The dataset used is the **Marketing Campaign** dataset, which includes customer 
 
 The final output includes customer segments visualized in 2D and 3D space, helping interpret how different groups behave and respond.
 
----
-
-Would you like me to also generate a `requirements.txt` for this project?
