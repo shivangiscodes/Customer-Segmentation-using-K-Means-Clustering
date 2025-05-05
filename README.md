@@ -36,7 +36,7 @@ The dataset used is the **Marketing Campaign** dataset, which includes customer 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/customer-segmentation.git
+   git clone https://github.com/shivangiscodes/Customer-Segmentation-using-K-Means-Clustering.git
    cd customer-segmentation
    ```
 
@@ -49,7 +49,7 @@ The dataset used is the **Marketing Campaign** dataset, which includes customer 
 3. Run the notebook:
 
    ```bash
-   jupyter notebook customer-segmentation-clustering.ipynb
+   jupyter notebook Customer-Segmentation-using-K-Means-Clustering.ipynb
    ```
 
 ## 📈 Output
